@@ -1,6 +1,6 @@
 # Clojure Koans
 
-[My](github.com/nicolashahn) solutions for [the Clojure Koans.](https://github.com/functional-koans/clojure-koans)
+[My](https://github.com/nicolashahn) solutions for [the Clojure Koans.](https://github.com/functional-koans/clojure-koans)
 
 - [01_equalities.clj](/src/koans/01_equalities.clj)
 - [02_strings.clj](/src/koans/02_strings.clj)
